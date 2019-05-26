@@ -1,0 +1,56 @@
+<div class="itembox-gem">
+	<div class="TitleRareBar">
+		<div class="TitleRareBarL"></div>
+		<div class="TitleRareBarR"></div>
+		<div class="TextRare">
+		    <span class="ItemName">Название баффа</span>
+		</div>
+        <div class="TextRare">
+            <span class="ItemType">Положительный эффект</span>
+        </div>
+	</div>
+<span class="itemboxstats">
+<span class="itemboxstatsgroup text-mod">Основной контент тут (рус). 
+<span class='mod-value'>Спан для цвета циферок</span>%
+</span>
+
+</span>
+<div class="itemboximage"><img  src="https://web.poecdn.com/image/Art/2DArt/SkillIcons/passives/Champion/Conqueror.png?scale=1"/></div>
+<br>
+Англ название
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="itembox-gem">
+	<div class="TitleRareBar">
+		<div class="TitleRareBarL"></div>
+		<div class="TitleRareBarR"></div>
+		<div class="TextRare">
+		    <span class="ItemName">Название баффа (англ)</span>
+		</div>
+        <div class="TextRare">
+            <span class="ItemType">Buff</span>
+        </div>
+	</div>
+<span class="itemboxstats">
+<span class="itemboxstatsgroup text-mod">Основной контент тут (англ).
+<span class='mod-value'>Спан для цвета циферок</span>%
+</span>
+
+</span>
+<div class="itemboximage"><img  src="https://web.poecdn.com/image/Art/2DArt/SkillIcons/passives/Champion/Conqueror.png?scale=1"/></div>
+Англ название
+</div>
