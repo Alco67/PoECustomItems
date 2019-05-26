@@ -3,35 +3,22 @@
 		<div class="TitleRareBarL"></div>
 		<div class="TitleRareBarR"></div>
 		<div class="TextRare">
-		    <span class="ItemName">Название баффа</span>
+		    <span class="ItemName">Боевой раж</span>
 		</div>
         <div class="TextRare">
             <span class="ItemType">Положительный эффект</span>
         </div>
 	</div>
 <span class="itemboxstats">
-<span class="itemboxstatsgroup text-mod">Основной контент тут (рус). 
-<span class='mod-value'>Спан для цвета циферок</span>%
+<span class="itemboxstatsgroup text-mod"><span class='mod-value'>20</span>% повышение скорости атаки,<br> <span class='mod-value'>20</span>% повышение скорости сотворения чар, <br> <span class='mod-value'>20</span>% повышение скорости передвижения.
+
 </span>
 
 </span>
-<div class="itemboximage"><img  src="https://web.poecdn.com/image/Art/2DArt/SkillIcons/passives/Champion/Conqueror.png?scale=1"/></div>
+<div class="itemboximage"><img  src="ссылка на локально загруженное .png изображение, с относительным путём по типу /media/ckeditor/2019/05/26/onslaught.png"/></div>
 <br>
-Англ название
+Onslaught
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <div class="itembox-gem">
@@ -39,18 +26,18 @@
 		<div class="TitleRareBarL"></div>
 		<div class="TitleRareBarR"></div>
 		<div class="TextRare">
-		    <span class="ItemName">Название баффа (англ)</span>
+		    <span class="ItemName">Onslaught<span>
 		</div>
         <div class="TextRare">
             <span class="ItemType">Buff</span>
         </div>
 	</div>
 <span class="itemboxstats">
-<span class="itemboxstatsgroup text-mod">Основной контент тут (англ).
-<span class='mod-value'>Спан для цвета циферок</span>%
+<span class="itemboxstatsgroup text-mod"><span class='mod-value'>20</span>% increased attack speed,<br> <span class='mod-value'>20</span>% increased cast speed, <br> <span class='mod-value'>20</span>% increased movement speed.
+
 </span>
 
 </span>
-<div class="itemboximage"><img  src="https://web.poecdn.com/image/Art/2DArt/SkillIcons/passives/Champion/Conqueror.png?scale=1"/></div>
-Англ название
+<div class="itemboximage"><img  src="ссылка на локально загруженное .png изображение, с относительным путём по типу /media/ckeditor/2019/05/26/onslaught.png"/></div>
+Onslaught
 </div>
